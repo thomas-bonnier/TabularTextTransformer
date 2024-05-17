@@ -298,7 +298,7 @@ class EarlyConcatTranformer(nn.Module):
         return pred
     
 #######################################################################################################################
-# 3. LateFuse or Tabular Transformer ("Multimodal-Toolkit: A Package for Learning on Tabular and Text Data with Transformers"
+# 3. LateFuse ("Multimodal-Toolkit: A Package for Learning on Tabular and Text Data with Transformers")
 #######################################################################################################################
    
 class TabularTranformer(nn.Module):
@@ -509,7 +509,7 @@ class TFN(nn.Module):
         return post_fusion_y2
     
 #######################################################################################################################
-# 5. Tabular-Text Transformer (embeddings for continuous variables, one-versus-all attention, late fusion)
+# 5. Tabular-Text Transformer or TTT (embeddings for continuous variables, one-versus-all attention, late fusion)
 #######################################################################################################################
 
 ## MM encoder block of the MMTransformer
@@ -1242,7 +1242,7 @@ class LateFuseBERT(nn.Module):
         return pred, text_cls, tabular_cls
 
 #######################################################################################################################
-# 10. EarlyConcat
+# 10. AllTextBERT
 #######################################################################################################################
 
 class AllTextBERT(nn.Module):
