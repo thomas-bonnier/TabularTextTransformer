@@ -509,7 +509,7 @@ class TFN(nn.Module):
         return post_fusion_y2
     
 #######################################################################################################################
-# 5. Tabular-Text Transformer or TTT (embeddings for continuous variables, one-versus-all attention, late fusion)
+# 5. Tabular-Text Transformer or TTT
 #######################################################################################################################
 
 ## MM encoder block of the MMTransformer
