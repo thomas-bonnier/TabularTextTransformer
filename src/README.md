@@ -1,1 +1,1 @@
-Code resources.
+Code resources
