@@ -18,7 +18,7 @@ For some of the use cases, we use the original training dataset as the test data
 
 ## Code architecture
 Py files:
-- $${\color{blue}settings.py$$: this file contains all the settings by dataset (e.g. file name, list of features, number of classes) and for the pre-trained models.
+- <span style="color: blue">}settings.py</span>: this file contains all the settings by dataset (e.g. file name, list of features, number of classes) and for the pre-trained models.
 - dataset.py: this file contains all the functions for pre-processing the data.
 - model.py: this file contains all the classes defining the architectures of the models (including the ablation studies).
 - optimization.py: this file contains all the functions for tuning, training, and evaluating the models.
