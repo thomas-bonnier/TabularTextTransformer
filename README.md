@@ -14,7 +14,7 @@ For some of the use cases, we use the original training dataset as the test data
 - *cloth*: "Womens Clothing E-Commerce Reviews.csv" from https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews.
 - *jigsaw*: "jigsaw_train_100k.csv" from https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification.
 - *kick*: "kickstarter_train.csv" ("train.csv" is the name of the original dataset) from https://www.kaggle.com/datasets/codename007/funding-successful-projects.
-- *petfinder: "petfinder_train.csv" ("train.csv" is the name of the original dataset) from https://www.kaggle.com/competitions/petfinder-adoption-prediction/data.
+- *petfinder*: "petfinder_train.csv" ("train.csv" is the name of the original dataset) from https://www.kaggle.com/competitions/petfinder-adoption-prediction/data.
 - *salary*: "Data_Scientist_Salary_Train.csv" ("Final_Train_Dataset.csv" is the name of the original dataset) from https://machinehack.com/hackathons/predict_the_data_scientists_salary_in_india_hackathon/overview.
 - *wine10*, *wine100*: "winemag-data-130k-v2.csv" from https://www.kaggle.com/datasets/zynicide/wine-reviews.
 
