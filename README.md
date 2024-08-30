@@ -33,6 +33,7 @@ Notebooks:
 
 ## About
 If you use it in your work, please use the following BibTeX entry for citation:
+```
 @inproceedings{bonnier-2024-revisiting,
     title = "Revisiting Multimodal Transformers for Tabular Data with Text Fields",
     author = "Bonnier, Thomas",
@@ -44,3 +45,4 @@ If you use it in your work, please use the following BibTeX entry for citation:
     url = "https://aclanthology.org/2024.findings-acl.87",
     pages = "1481--1500",
 }
+```
