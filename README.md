@@ -1,5 +1,5 @@
 # Tabular-Text Transformer (TTT)
-Resources for the ACL 2024 paper (Findings): **Revisiting Multimodal Transformers for Tabular Data with Text Fields.**
+Resources for the ACL 2024 paper (Findings): [Revisiting Multimodal Transformers for Tabular Data with Text Fields.](https://aclanthology.org/2024.findings-acl.87/)
 
 ## Author
 Thomas Bonnier
@@ -32,7 +32,6 @@ Notebooks:
 - *uncertainty_xai.ipynb*: this notebook allows to run the experiments related to the explanation of uncertainty for TTT.
 
 ## About
-
 If you use Mandoline in your work, please use the following BibTeX entry for citation:
 @inproceedings{bonnier-2024-revisiting,
     title = "Revisiting Multimodal Transformers for Tabular Data with Text Fields",
