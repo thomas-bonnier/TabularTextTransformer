@@ -32,7 +32,7 @@ Notebooks:
 - *uncertainty_xai.ipynb*: this notebook allows to run the experiments related to the explanation of uncertainty for TTT.
 
 ## About
-If you use Mandoline in your work, please use the following BibTeX entry for citation:
+If you use it in your work, please use the following BibTeX entry for citation:
 @inproceedings{bonnier-2024-revisiting,
     title = "Revisiting Multimodal Transformers for Tabular Data with Text Fields",
     author = "Bonnier, Thomas",
