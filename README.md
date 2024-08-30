@@ -43,6 +43,6 @@ If you use it in your work, please use the following BibTeX entry for citation:
     address = "Bangkok, Thailand and virtual meeting",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2024.findings-acl.87",
-    pages = "1481--1500",
+    pages = "1481--1500"
 }
 ```
